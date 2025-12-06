@@ -6,7 +6,7 @@ import Dessert from '/src/assets/DessertImage6.webp';
 import Events from '/src/assets/EventsImage5.jpeg';
 import Chef from '/src/assets/chefImage3.png';
 import ChristmasImage from '/src/assets/ChristmasImage8.jpg';
-import NewYear from '/src/assets/NewYearImage9.avif';
+import NewYear from '/src/assets/NewYearImage9.png';
 import Five from '/src/assets/FiveImage10.png';
 import backgroundImage from '/src/assets/backgroundImage1.jpg';
 import QUAY from '/src/assets/quay-white.svg';
