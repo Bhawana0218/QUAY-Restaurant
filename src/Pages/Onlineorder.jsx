@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Header from '../Header.jsx';
-import OnlineOrder from '../assets/OnlineOrder.jpeg';
+import Header from '/src/Header.jsx';
+import OnlineOrder from '/src/assets/OnlineOrder.jpeg';
 
 const Onlineorder = ()=>{
      const [cart, setCart] = useState([]);

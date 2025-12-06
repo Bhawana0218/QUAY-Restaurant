@@ -1,18 +1,15 @@
 import './App.css'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
-import { Toaster } from 'react-hot-toast';
 import Menu from './Pages/Menu';
 import Footer from './Footer';
 import Home from './Pages/Home';
 import Onlineorder from './Pages/Onlineorder';
 import Reservation from './Pages/Reservation';
 import Success from './Pages/Success';
-import Header from './Header';
 
 function App() {
   return (
     <div>
-      {/* <Header></Header> */}
       <Router>
         <Routes>
         <Route path="/" element={<Home></Home>}></Route>

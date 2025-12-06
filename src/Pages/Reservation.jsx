@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
-import Header from '../Header';
+import Header from '/src/Header.jsx';
 import axios from 'axios';
 import toast from 'react-hot-toast';
-import ReservationImage from '../assets/ReservationImage.png';
 
 const Reservation = ()=>{
     const [date, setDate] = useState('');

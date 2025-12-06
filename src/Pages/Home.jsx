@@ -1,15 +1,15 @@
 import React from 'react';
 import { useState} from 'react';
-import signature from '../assets/signature-dish-Image2.png';
-import Awards from '../assets/AwardsImage7.jpeg';
-import Dessert from '../assets/DessertImage6.webp';
-import Events from '../assets/EventsImage5.jpeg';
-import Chef from '../assets/chefImage3.avif';
-import ChristmasImage from '../assets/ChristmasImage8.jpg';
-import NewYear from '../assets/NewYearImage9.avif';
-import Five from '../assets/FiveImage10.png';
-import backgroundImage from '../assets/backgroundImage1.jpg';
-import QUAY from '../assets/quay-white.svg';
+import signature from '/src/assets/signature-dish-Image2.png';
+import Awards from '/src/assets/AwardsImage7.jpeg';
+import Dessert from '/src/assets/DessertImage6.webp';
+import Events from '/src/assets/EventsImage5.jpeg';
+import Chef from '/src/assets/chefImage3.avif';
+import ChristmasImage from '/src/assets/ChristmasImage8.jpg';
+import NewYear from '/src/assets/NewYearImage9.avif';
+import Five from '/src/assets/FiveImage10.png';
+import backgroundImage from '/src/assets/backgroundImage1.jpg';
+import QUAY from '/src/assets/quay-white.svg';
 export const events =[
     {
         title: 'CHRISTMAS DAY AT QUAY',

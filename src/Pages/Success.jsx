@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Header from '../Header';
-import SuccessImage from '../assets/SuccessImage.jpeg';
+import Header from '/src/Header.jsx';
+import SuccessImage from '/src/assets/SuccessImage.jpeg';
 
 const Success = ()=>{
     const [currentTestimonial, setCurrentTestimonial] = useState(0);

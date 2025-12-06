@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Header from '../Header';
-import MenuImage from '../assets/MenuImage1.jpg';
-import WineImage from '../assets/WineImage.jpg';
+import Header from '/src/Header.jsx';
+import MenuImage from '/src/assets/MenuImage1.jpg';
+import WineImage from '/src/assets/WineImage.jpg';
 
 const Menu = ()=>{
      const [activeCategory, setActiveCategory] = useState('starters');
