@@ -4,7 +4,7 @@ import signature from '/src/assets/signature-dish-Image2.png';
 import Awards from '/src/assets/AwardsImage7.jpeg';
 import Dessert from '/src/assets/DessertImage6.webp';
 import Events from '/src/assets/EventsImage5.jpeg';
-import Chef from '/src/assets/chefImage3.avif';
+import Chef from '/src/assets/chefImage3.png';
 import ChristmasImage from '/src/assets/ChristmasImage8.jpg';
 import NewYear from '/src/assets/NewYearImage9.avif';
 import Five from '/src/assets/FiveImage10.png';
