@@ -19,7 +19,7 @@ const Reservation = ()=>{
   const handleReservation = async(e) =>{
     e.preventDefault();
     try{
-      const {data} = await axios.post("https://your-backend.onrender.com/api/v1/reservation/send",{firstName, lastName, email, phone, date, time},{
+      const {data} = await axios.post("https://quay-back-end-1.onrender.com/api/v1/reservation/send",{firstName, lastName, email, phone, date, time},{
         headers:{
           "Content-Type": "application/json"
         }, withCredentials: true
